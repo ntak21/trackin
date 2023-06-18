@@ -1,0 +1,120 @@
+body {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    background-color: #FAFBFB ;
+    font-family: sans-serif;
+    width: auto;
+} 
+
+.wrapper {
+    padding: 5px;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+    width: 100%;
+    height: 50px;
+    background-color: white;
+}
+
+
+.logo {
+    font-size: 25px;
+    font-weight: 700;
+    float: left;
+    flex: auto;
+    color: #2F4699;
+    font-style: normal;
+    line-height: 45px;
+    margin-left: 20px;
+}
+
+.navigation{
+    margin-right: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+.navigation >li {
+    list-style-type: none;
+    padding: 15px;
+    }
+    
+.navigation>li>a{
+    color: #2F4699;
+    font-size: 15px;
+    text-decoration: none;
+    margin-right: 10px;
+    }
+
+.bx-user-circle{
+    color: #2F4699;
+    size: 40px;
+    }
+
+.title h4{
+    margin-left: 120px;
+    margin-top: 40px;
+    color: #2F4699;
+}
+
+.container{
+width: 300px;
+}
+
+.form-menu{
+    padding: 20px;
+    margin-left: 120px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    width: 600px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.form-group h1{
+    font-size: 15px;
+}
+
+.form-group2 h1{
+    font-size: 15px;
+}
+
+.form-group h2{
+    font-size: 7px;
+}
+
+
+.form-group input{
+    padding: 2px;
+    padding-left: 8px;
+    width: 400px;
+    border-radius: 15px;
+    background-color: #EDEDED;
+    border-style: solid;
+    border-color: #EDEDED;
+}
+
+
+.form-group style{
+    padding: 2px;
+    padding-left: 8px;
+    width: 400px;
+    border-radius: 15px;
+    background-color: #EDEDED;
+    border-style: solid;
+    border-color: #EDEDED;
+}
+
+
+btn-primary{
+    width: 40px;
+}
+
+.radio-field{
+margin-top: 20px;
+margin-bottom: 20px;
+width: 450px;
+font-size: 13px;
+}

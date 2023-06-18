@@ -1,0 +1,100 @@
+
+/* dropdownstyle*/
+.dropbtn {
+    background-color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+
+  
+  .dropdown {
+    position:relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    font-size: 12px;
+    margin-top: 7px;
+    border-radius: 15px;
+    margin-left: -40px;
+    position:absolute;
+    background-color: #ffffff;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+
+  .show {display: block;}
+
+/* dropdownstyle*/
+
+
+.wrapper {
+    margin: 0%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+    height: 50px;
+    background-color: white;
+}
+
+
+.logo {
+    font-size: 25px;
+    font-weight: 700;
+    float: left;
+    flex: auto;
+    color: #2F4699;
+    font-style: normal;
+    line-height: 45px;
+    margin-left: 20px;
+}
+
+.navigation{
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+.navigation >li {
+    list-style-type: none;
+    padding: 15px;
+    }
+    
+.navigation>li>a{
+    color: #2F4699;
+    font-size: 15px;
+    text-decoration: none;
+    margin-right: 10px;
+    }
+    
+.kolom1 {
+    color: #2F4699;
+    padding: 80px;
+}
+
+
+.bx-user-circle{
+    padding-top: 4px;
+    font-size: 25px;
+}
+
+.bxs-log-in{
+    font-size: 10px;
+    color: #7b7b7b;
+    margin-right: 5px;
+}

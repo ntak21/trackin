@@ -1,0 +1,148 @@
+p {
+  margin: 0;
+}
+
+.nav-title {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 35px;
+  color: #2f4699;
+}
+.nav-sub-title {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+  color: #2f4699;
+  cursor: pointer;
+}
+.navbar img {
+  height: auto;
+  max-width: 100%;
+  width: 3vw;
+  cursor: pointer;
+}
+h2.title {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  color: #2f4699;
+}
+#menu p {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  color: #2f4699;
+}
+
+#informasi h2 {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  color: #2f4699;
+}
+
+.container1 p{
+font-family: "Quicksand";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 12px;
+margin-bottom: 15px;
+}
+
+.container{
+width: 1000px;
+margin-top:20px;
+margin-left:-50px;
+}
+
+.container1 h1{
+margin-bottom: 6px;
+}
+
+#informasi p {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 12px;
+}
+.row.card-item {
+  height: 10vh;
+  margin-bottom: 100px;
+}
+
+.card-img {
+  border-radius: 10px;
+  height: 10vh;
+  object-fit: cover;
+}
+
+span.title {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  color: #2f4699;
+}
+span.desc {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  color: #5c5c5c;
+}
+.review {
+  background: #ffffff;
+  border-radius: 35px;
+  height: 17vh;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.roboto {
+  margin: 0;
+  flex-grow: 1;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+}
+  .font-quicky-bold {
+      font-family: 'Quicksand Bold', sans-serif;
+  }
+
+  .font-quicky {
+      font-family: 'Quicksand Book', sans-serif;
+  }
+
+  body {
+      height: 100vh;
+      width: 100%;
+  }
+.bxs-like{
+  margin-left: -3px;
+  margin-right: 15px;
+}
+
+.title{
+  color: #2f4699
+}
+
+.kantinimg{
+  border-radius: 45px 0px 45px 0px;
+}
+
+#informasi{
+  width: 1500px;
+}

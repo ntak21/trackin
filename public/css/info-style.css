@@ -1,0 +1,17 @@
+body {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    background-color: #FAFBFB ;
+    font-family: sans-serwrif;
+} 
+
+
+.bx-user-circle{
+    color: #2F4699;
+    size: 40px;}
+
+.wrapper{
+    padding-bottom: 10px;
+    height:1000px;
+}
